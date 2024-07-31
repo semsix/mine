@@ -1,0 +1,27 @@
+# HBase Ubuntu Ex6 #
+https://tomaustin.xyz/2020/05/02/installing-hbase-in-standalone-mode-on-ubuntu/
+
+# Thrift Ubuntu Ex6 #
+https://thrift-tutorial.readthedocs.io/en/latest/installation.html
+
+# Sqoop Windows Ex7 #
+https://youtu.be/eePrk-UA_gg?si=payt-_HzaXPYcC0f
+
+# Hive Windows Ex5 #
+https://towardsdatascience.com/installing-apache-hive-3-1-2-on-windows-10-70669ce79c79
+
+# Mapreduce WordCount Ubuntu Ex4 #
+https://projectgurukul.org/create-hadoop-mapreduce-project-eclipse/#google_vignette
+
+# HBase Windows Ex6 [Optional] #
+https://www.learntospark.com/2020/08/setup-hbase-in-windows.html#google_vignette
+
+# Hadoop Windows Ex1 Important #
+
+Download java8 from: 
+https://www.oracle.com/in/java/technologies/javase/javase8u211-later-archive-downloads.html
+
+Files to be edited: https://docs.google.com/document/d/1xXqCHRu5k0S_fqmtdi1RFPEd19t6ciDYqFz8M1i5iUU/edit?usp=sharing
+
+Configuration files of 3.3.6 :
+https://drive.google.com/file/d/1G6h29CUbCrWx7hMnEJtrP6t7DVp-MvkX/view?usp=sharing
