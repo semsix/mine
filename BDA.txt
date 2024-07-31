@@ -18,6 +18,9 @@ https://www.learntospark.com/2020/08/setup-hbase-in-windows.html#google_vignette
 
 # Hadoop Windows Ex1 Important #
 
+Microsoft Visual C++ Redistributable and isatll updated version from:
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
 Download java8 from: 
 https://www.oracle.com/in/java/technologies/javase/javase8u211-later-archive-downloads.html
 
